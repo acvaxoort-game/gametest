@@ -7,6 +7,6 @@ Player character will be highly customizable, with:
 * trinkets that will augment the character, mostly defensively
 * some secondary abilities, not sure about specifics at this moment
 ## v0.1
-Testing procedural generation and minimap (press TAB). Currently it's generating random branches of rooms to the left and to the right and a fixed set of rooms upwards. It definitely won't stay this way, I've got some more interesting ideas about it. There is (at least) one known, reliable way to crash but I don't expect anyone to find it.
+Testing procedural generation and minimap (press TAB, -/+ (=) to zoom). Currently it's generating random branches of rooms to the left and to the right and a fixed set of rooms upwards. It definitely won't stay this way, I've got some more interesting ideas about it. There is (at least) one known, reliable way to crash but I don't expect anyone to find it.
 ## v0.0
 Not really much here at this moment, you can walk around in a static level. I'm not expecting any crashes or bugs but they probably do exist. This version features placeholder graphics, my first attempt to create assets like this, the character will be replaced at some point.
