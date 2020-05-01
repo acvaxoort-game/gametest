@@ -6,7 +6,12 @@ Player character will be highly customizable, with:
 * heavily customizable spells, with upgrade system like path of exile (with less crafting rng)
 * trinkets that will augment the character, mostly defensively
 * some secondary abilities, not sure about specifics at this moment
-## v0.1.1
+
+## v0.2
+Added a basic walking enemy, shooting and dying.
+
+Bug fixes: Less weird collisions when walking into walls.
+## v0.1.1
 You can enter seed during world creation (open dev console with \`, use command "seed" to get seed).
 
 Bug fixes: FPS cap now works correctly; video settings menu doesn't show incorrect values after previously escaping from it; fixed a crash after escaping to menu while dev console was on and then starting game again; V no longer spams "asdf"; Enter no longer spams "invalid command".
